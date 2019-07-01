@@ -2,7 +2,7 @@
 	"name": "redux-basics",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://clockfabric.gitbub.io/redux-basics",
+	"homepage": "https://clockfabric.github.io/redux-basics",
 	"dependencies": {
 		"react": "^16.8.6",
 		"react-dom": "^16.8.6",
