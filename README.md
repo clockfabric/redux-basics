@@ -1,3 +1,5 @@
+This project can be previewed at https://clockfabric.gitbub.io/redux-basics
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
